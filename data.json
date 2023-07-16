@@ -1,0 +1,187 @@
+{
+	"":	{
+		"language":	"C",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw7/hw7-phase1-autograder.c",
+		"lines":	620
+	},
+	"":	{
+		"language":	"C",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw4/test.c",
+		"lines":	503
+	},
+	"":	{
+		"language":	"C",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw7/hw7.c",
+		"lines":	492
+	},
+	"":	{
+		"language":	"C",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw5/hw5-phase1-autograder.c",
+		"lines":	480
+	},
+	"":	{
+		"language":	"C",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw4/hw4.c",
+		"lines":	260
+	},
+	"":	{
+		"language":	"C",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw5/hw5.c",
+		"lines":	230
+	},
+	"":	{
+		"language":	"C",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw3/slide15.c",
+		"lines":	157
+	},
+	"":	{
+		"language":	"JSON",
+		"filename":	"./data.json",
+		"lines":	150
+	},
+	"":	{
+		"language":	"C",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw6/hw6.c",
+		"lines":	146
+	},
+	"":	{
+		"language":	"C",
+		"filename":	"./tracker.c",
+		"lines":	145
+	},
+	"":	{
+		"language":	"C",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw2/panes.c",
+		"lines":	106
+	},
+	"":	{
+		"language":	"C",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw1/patterns.c",
+		"lines":	74
+	},
+	"":	{
+		"language":	"C/C++ Header",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw7/hw7.h",
+		"lines":	66
+	},
+	"":	{
+		"language":	"C",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw2/vgrad.c",
+		"lines":	63
+	},
+	"":	{
+		"language":	"C/C++ Header",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw5/hw5.h",
+		"lines":	48
+	},
+	"":	{
+		"language":	"C",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw2/perm2oct.c",
+		"lines":	44
+	},
+	"":	{
+		"language":	"C",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw2/oct2perm.c",
+		"lines":	42
+	},
+	"":	{
+		"language":	"C",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw6/grayseq.c",
+		"lines":	28
+	},
+	"":	{
+		"language":	"C",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw6/graypar.c",
+		"lines":	26
+	},
+	"":	{
+		"language":	"CSV",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw7/tst.csv",
+		"lines":	26
+	},
+	"":	{
+		"language":	"C/C++ Header",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw6/hw6.h",
+		"lines":	23
+	},
+	"":	{
+		"language":	"C",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw2/decimal2rgb.c",
+		"lines":	21
+	},
+	"":	{
+		"language":	"C/C++ Header",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw4/hw4.h",
+		"lines":	20
+	},
+	"":	{
+		"language":	"XML",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw7/test.dSYM/Contents/Info.plist",
+		"lines":	20
+	},
+	"":	{
+		"language":	"C",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw2/rgb2decimal.c",
+		"lines":	16
+	},
+	"":	{
+		"language":	"make",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw2/Makefile",
+		"lines":	15
+	},
+	"":	{
+		"language":	"Python",
+		"filename":	"./display.py",
+		"lines":	13
+	},
+	"":	{
+		"language":	"make",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw6/Makefile",
+		"lines":	9
+	},
+	"":	{
+		"language":	"make",
+		"filename":	"./Makefile",
+		"lines":	8
+	},
+	"":	{
+		"language":	"make",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw1/Makefile",
+		"lines":	5
+	},
+	"":	{
+		"language":	"make",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw3/Makefile",
+		"lines":	5
+	},
+	"":	{
+		"language":	"make",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw4/Makefile",
+		"lines":	5
+	},
+	"":	{
+		"language":	"make",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw5/Makefile",
+		"lines":	5
+	},
+	"":	{
+		"language":	"make",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw7/Makefile",
+		"lines":	5
+	},
+	"":	{
+		"language":	"Python",
+		"filename":	"./cs143-coursework-LukeAndreesen/hw4/luke.py",
+		"lines":	0
+	},
+	"":	{
+		"language":	"SUM",
+		"filename":	"732",
+		"lines":	0
+	},
+	"":	{
+		"language":	"SUM",
+		"filename":	"732",
+		"lines":	0
+	}
+}

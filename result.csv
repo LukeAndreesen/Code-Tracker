@@ -1,0 +1,41 @@
+      38 text files.
+classified 37 files      35 unique files.                              
+      18 files ignored.
+
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.96  T=0.03 s (1185.9 files/s 176153.2 lines/s)"
+C,./cs143-coursework-LukeAndreesen/hw7/hw7-phase1-autograder.c,130,29,620
+C,./cs143-coursework-LukeAndreesen/hw4/test.c,69,17,503
+C,./cs143-coursework-LukeAndreesen/hw7/hw7.c,65,14,492
+C,./cs143-coursework-LukeAndreesen/hw5/hw5-phase1-autograder.c,66,113,480
+C,./cs143-coursework-LukeAndreesen/hw4/hw4.c,50,33,260
+C,./cs143-coursework-LukeAndreesen/hw5/hw5.c,27,31,230
+C,./cs143-coursework-LukeAndreesen/hw3/slide15.c,37,47,157
+JSON,./data.json,0,0,150
+C,./cs143-coursework-LukeAndreesen/hw6/hw6.c,24,16,146
+C,./tracker.c,28,0,145
+C,./cs143-coursework-LukeAndreesen/hw2/panes.c,23,35,106
+C,./cs143-coursework-LukeAndreesen/hw1/patterns.c,25,43,74
+C/C++ Header,./cs143-coursework-LukeAndreesen/hw7/hw7.h,45,67,66
+C,./cs143-coursework-LukeAndreesen/hw2/vgrad.c,13,16,63
+C/C++ Header,./cs143-coursework-LukeAndreesen/hw5/hw5.h,30,46,48
+C,./cs143-coursework-LukeAndreesen/hw2/perm2oct.c,7,5,44
+C,./cs143-coursework-LukeAndreesen/hw2/oct2perm.c,7,6,42
+C,./cs143-coursework-LukeAndreesen/hw6/grayseq.c,8,0,28
+C,./cs143-coursework-LukeAndreesen/hw6/graypar.c,5,0,26
+CSV,./cs143-coursework-LukeAndreesen/hw7/tst.csv,0,0,26
+C/C++ Header,./cs143-coursework-LukeAndreesen/hw6/hw6.h,13,10,23
+C,./cs143-coursework-LukeAndreesen/hw2/decimal2rgb.c,3,1,21
+C/C++ Header,./cs143-coursework-LukeAndreesen/hw4/hw4.h,21,55,20
+XML,./cs143-coursework-LukeAndreesen/hw7/test.dSYM/Contents/Info.plist,0,0,20
+C,./cs143-coursework-LukeAndreesen/hw2/rgb2decimal.c,3,1,16
+make,./cs143-coursework-LukeAndreesen/hw2/Makefile,9,0,15
+Python,./display.py,4,4,13
+make,./cs143-coursework-LukeAndreesen/hw6/Makefile,5,0,9
+make,./Makefile,4,2,8
+make,./cs143-coursework-LukeAndreesen/hw1/Makefile,1,0,5
+make,./cs143-coursework-LukeAndreesen/hw3/Makefile,2,0,5
+make,./cs143-coursework-LukeAndreesen/hw4/Makefile,3,0,5
+make,./cs143-coursework-LukeAndreesen/hw5/Makefile,2,0,5
+make,./cs143-coursework-LukeAndreesen/hw7/Makefile,2,0,5
+Python,./cs143-coursework-LukeAndreesen/hw4/luke.py,1,0,0
+SUM,,732,591,3876
